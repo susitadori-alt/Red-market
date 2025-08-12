@@ -1,4 +1,7 @@
-# Red-market
+# Red-marketindex.html  
+style.css  
+script.js  
+assets/ (images for sample products)
 Sales
 // RedSalle Marketplace - Single-file React App (MVP demo) // Branding: red & white // Purpose: buyer-facing marketplace where sellers list products and the platform takes 5% commission on each sale. // This is a frontend demo built with React + Tailwind CSS. It's intended as a preview/shell. Backend responsibilities are described below.
 
